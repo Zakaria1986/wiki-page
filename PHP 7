@@ -1,1 +1,4 @@
 
+** Declare strict type if you want strict input and output. 
+
+``declare(strict_types = 1);``
